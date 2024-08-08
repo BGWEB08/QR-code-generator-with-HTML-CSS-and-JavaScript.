@@ -12,7 +12,6 @@ This project is a simple QR Code Generator. The application allows you to input 
 1. Enter the URL or website name into the input field.
 2. Click on the "Generate" button.
 3. The QR code corresponding to the entered information will be displayed on the screen.
-4. You can download the QR code by clicking on the "Download" button.
 
 ## Demo
 
