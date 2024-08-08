@@ -17,4 +17,4 @@ This project is a simple QR Code Generator. The application allows you to input 
 
 ## Demo
 
-![QR Code Generator Image](https://github.com/YourUsername/YourRepoName/raw/main/images/qr-code-generator-demo.png)
+![QR Code Generator Image](https://github.com/BGWEB08/README.md-IMAGES/blob/main/JavaScript%20Trials/QR%20Code%20Generator/qrcodegenerator-img.png?raw=true)
